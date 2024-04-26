@@ -1,1 +1,1 @@
-https://bn.d.miui.com/V14.0.8.0.TKHCNXM/miui_ALIOTH_V14.0.8.0.TKHCNXM_50141f32f2_13.0.zip
+https://bigota.d.miui.com/OS1.0.3.0.TKHCNXM/alioth_images_OS1.0.3.0.TKHCNXM_20240201.0000.00_13.0_cn_6d1ee9d6df.tgz
