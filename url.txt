@@ -1,1 +1,1 @@
-https://bigota.d.miui.com/OS1.0.3.0.TKHCNXM/alioth_images_OS1.0.3.0.TKHCNXM_20240201.0000.00_13.0_cn_6d1ee9d6df.tgz
+https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.3.0.TKHCNXM/alioth_images_OS1.0.3.0.TKHCNXM_20240201.0000.00_13.0_cn_6d1ee9d6df.tgz
